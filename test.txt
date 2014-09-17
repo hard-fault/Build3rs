@@ -1,4 +1,8 @@
 Hello Builders!
 dfjhkjdhfkj
 qwer
+<<<<<<< HEAD
 shreyas
+=======
+nikhil
+>>>>>>> origin/master
