@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Hello Builders! sniper6 committing! :D
+=======
+Hello Builders!
+dfjhkjdhfkj
+qwer
+nikhil
+>>>>>>> ad775a99137109c2fc50390b6c4cfcf1d13cb249
