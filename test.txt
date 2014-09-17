@@ -8,4 +8,8 @@ shreyas
 =======
 nikhil and maaz are commiting
 >>>>>>> origin/master
+<<<<<<< HEAD
 I commited
+=======
+i no comited :D
+>>>>>>> origin/master
